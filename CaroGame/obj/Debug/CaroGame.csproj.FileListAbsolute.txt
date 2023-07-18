@@ -1,0 +1,30 @@
+D:\Document\NĂM 3\kì 1\ttnt\NgocTuyen_QuocTrung\CaroGame\obj\Debug\CaroGame.csproj.AssemblyReference.cache
+D:\Document\NĂM 3\kì 1\ttnt\NgocTuyen_QuocTrung\CaroGame\obj\Debug\CaroGame.CaroGame.resources
+D:\Document\NĂM 3\kì 1\ttnt\NgocTuyen_QuocTrung\CaroGame\obj\Debug\CaroGame.Properties.Resources.resources
+D:\Document\NĂM 3\kì 1\ttnt\NgocTuyen_QuocTrung\CaroGame\obj\Debug\CaroGame.csproj.GenerateResource.cache
+D:\Document\NĂM 3\kì 1\ttnt\NgocTuyen_QuocTrung\CaroGame\obj\Debug\CaroGame.csproj.CoreCompileInputs.cache
+D:\Document\NĂM 3\kì 1\ttnt\NgocTuyen_QuocTrung\CaroGame\bin\Debug\CaroGame.exe.config
+D:\Document\NĂM 3\kì 1\ttnt\NgocTuyen_QuocTrung\CaroGame\bin\Debug\CaroGame.exe
+D:\Document\NĂM 3\kì 1\ttnt\NgocTuyen_QuocTrung\CaroGame\bin\Debug\CaroGame.pdb
+D:\Document\NĂM 3\kì 1\ttnt\NgocTuyen_QuocTrung\CaroGame\obj\Debug\CaroGame.exe
+D:\Document\NĂM 3\kì 1\ttnt\NgocTuyen_QuocTrung\CaroGame\obj\Debug\CaroGame.pdb
+D:\Document\NĂM 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\bin\Debug\CaroGame.exe.config
+D:\Document\NĂM 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\bin\Debug\CaroGame.exe
+D:\Document\NĂM 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\bin\Debug\CaroGame.pdb
+D:\Document\NĂM 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\obj\Debug\CaroGame.csproj.AssemblyReference.cache
+D:\Document\NĂM 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\obj\Debug\CaroGame.CaroGame.resources
+D:\Document\NĂM 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\obj\Debug\CaroGame.Properties.Resources.resources
+D:\Document\NĂM 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\obj\Debug\CaroGame.csproj.GenerateResource.cache
+D:\Document\NĂM 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\obj\Debug\CaroGame.csproj.CoreCompileInputs.cache
+D:\Document\NĂM 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\obj\Debug\CaroGame.exe
+D:\Document\NĂM 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\obj\Debug\CaroGame.pdb
+D:\Document\nam 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\bin\Debug\CaroGame.exe.config
+D:\Document\nam 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\bin\Debug\CaroGame.exe
+D:\Document\nam 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\bin\Debug\CaroGame.pdb
+D:\Document\nam 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\obj\Debug\CaroGame.csproj.AssemblyReference.cache
+D:\Document\nam 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\obj\Debug\CaroGame.CaroGame.resources
+D:\Document\nam 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\obj\Debug\CaroGame.Properties.Resources.resources
+D:\Document\nam 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\obj\Debug\CaroGame.csproj.GenerateResource.cache
+D:\Document\nam 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\obj\Debug\CaroGame.csproj.CoreCompileInputs.cache
+D:\Document\nam 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\obj\Debug\CaroGame.exe
+D:\Document\nam 3\kì 1\ttnt\báo cáo\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\32_2001207256_DoThiNgocTuyen_2001202282_LuuQuocTrung\CaroGame\obj\Debug\CaroGame.pdb
